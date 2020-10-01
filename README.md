@@ -1,6 +1,6 @@
 # MIWidget ✓
 
-Widget's main purpose is to display a small amount of timely, personally relevant information that people can view without opening your app. With iOS 14, Apple is replacing the old widgets with all new ones that are more dynamic, can pull in more information. You can create widgets in small, medium, or large sizes and can put widgets anywhere on a home screen.
+Widget's main purpose is to display a small amount of timely, personally relevant information that people can view without opening your app. With iOS 14, Apple is replacing the old widgets with all new ones that are more dynamic, can pull in more information. You can create widgets in small, medium, or large sizes and can put widgets anywhere on a home screen. For more update read on [Medium](https://medium.com/mindful-engineering/introducing-ios-14-widget-extension-1abaa198d183)
 
 <img src="/Images/Screenshot 1.png">
 
@@ -26,8 +26,6 @@ In this widget, we will show the current time with the device name and greeting 
 <img src="/Images/Screenshot 2.png">
 
 # Documentation 
-
-Widget medium blog - https://medium.com/mindful-engineering/introducing-ios-14-widget-extension-1abaa198d183
 
 Official - https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/widgets
 
