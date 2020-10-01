@@ -26,7 +26,8 @@ In this widget, we will show the current time with the device name and greeting 
 <img src="/Images/Screenshot 2.png">
 
 # Documentation 
- 
+
+Widget medium blog - https://medium.com/mindful-engineering/introducing-ios-14-widget-extension-1abaa198d183
 Official - https://developer.apple.com/design/human-interface-guidelines/ios/system-capabilities/widgets
 
 # LICENSE!
